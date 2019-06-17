@@ -28,6 +28,3 @@ TouchAction(driver).press(x=342,  y=944).wait(10000).release().perform()
 
 driver.quit()
 
-
-
-
